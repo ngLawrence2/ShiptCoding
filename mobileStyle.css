@@ -1,0 +1,74 @@
+@font-face {
+	font-family: Scandia-Regular;
+	src: url('font/Scandia-Regular.otf');
+}
+
+/*
+Promotion bar 
+*/
+#floatbar {
+width:100%;
+margin-top: 0;
+height: 20px;
+top: 0;
+right : 0;
+background-color:#696969;
+font-size: 10px;
+text-align:center;
+padding : 5px;
+} 
+
+.topnav {
+	overflow:hidden;
+	background-color :white;
+}
+
+#floatbar a {
+color:	#FFFFFF;
+} 
+
+body {
+	background-image: url('images/TargetNormal.png');
+}
+.button {
+    background-color: #4CAF50; 
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    margin: 4px 2px;
+    font-size: 10px;
+	float : right;
+	margin-right:10px;
+}
+
+
+
+#logo {
+	margin-left:10px;
+	float:left;
+}
+
+.bodyOfPage {
+	text-align:center;
+	overflow:hidden;
+	margin-top: 30px;
+	color:white;
+}
+
+
+
+.areabox input{
+	color : black;
+  border:0px;
+  padding:5px;
+  font-size:12px;
+  width:97%;
+}
+
+#start {
+	width: 100%;
+}
+
+#smallText {
+	font-size:10px;
+}
